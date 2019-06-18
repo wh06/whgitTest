@@ -1,2 +1,2 @@
 1 line1
-
+2 for patch ===> git format-patch -1 HEAD
