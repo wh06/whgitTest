@@ -2,4 +2,8 @@
 2 for patch ===> git format-patch -1 HEAD
 3 line 3 ====after git from origin/dev/branchC
 4 line4 ===> git diff master HEAD..HEAD~1
-5 line5 == at testB
+
+6 line6  modify1
+7 line7  mofify continue
+8 line8  modify again for another commit name
+9 line9  
