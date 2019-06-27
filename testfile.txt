@@ -8,3 +8,5 @@
 8 line8  modify again for another commit name
 9 line9  
 10 line10 before git clone ,git stash
+11 git clone ssh://huiwe@10.183.72.212/var/fpwork/whgitTest wh2 
+12 how to update to another server
