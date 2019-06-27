@@ -10,3 +10,4 @@
 10 line10 before git clone ,git stash
 11 git clone ssh://huiwe@10.183.72.212/var/fpwork/whgitTest wh2 
 12 how to update to another server
+13 only  git pull --rebase 
