@@ -7,3 +7,4 @@
 7 line7  mofify continue
 8 line8  modify again for another commit name
 9 line9  
+10 line10 before git clone ,git stash
