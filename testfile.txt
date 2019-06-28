@@ -1,3 +1,4 @@
 1 line1
 2 for patch ===> git format-patch -1 HEAD
 3 line 3 ====after git from origin/dev/branchC
+4 line 4 === 
